@@ -1,0 +1,62 @@
+{"Faculty": [
+    {
+        "Name": "Christian Andresen",
+        "Position": "Assistant Professor",
+        "Link": "https://geography.wisc.edu/staff/andresen-christian/"
+    },
+    {
+        "Name": "Ian Baird",
+        "Position": "Professor",
+        "Link": "https://geography.wisc.edu/staff/baird-ian/"
+    },
+    {
+        "Name": "Song Gao",
+        "Position": "Associate Professor, Director of Geospatial Data Science Lab",
+        "Link": "https://geography.wisc.edu/staff/gao-song/"
+    },
+    {
+        "Name": "ASLI Göçmen",
+        "Position": "Associate Professor",
+        "Link": "https://geography.wisc.edu/staff/gocmen-asli/"
+    },
+    {
+        "Name": "Qunying Huang",
+        "Position": "Associate Professor, Director of Spatial Computing and Data Mining Lab",
+        "Link": "https://geography.wisc.edu/staff/huang-qunying/"
+    },
+    {
+        "Name": "Ken Keefover-Ring",
+        "Position": "Assistant Professor",
+        "Link": "https://geography.wisc.edu/staff/keefover-ring-ken/"
+    },
+    {
+        "Name": "Bill Limpisathian",
+        "Position": "Assistant Professor",
+        "Link": "https://geography.wisc.edu/staff/limpisathian-bill/"
+    },
+    {
+        "Name": "Jenna M. Loyd",
+        "Position": "Associate Professor",
+        "Link": "https://geography.wisc.edu/staff/loyd-jenna-m/"
+    },
+    {
+        "Name": "Erika Marin-Spiotta",
+        "Position": "Professor",
+        "Link": "https://geography.wisc.edu/staff/marin-spiotta-erika/"
+    },
+    {
+        "Name": "Joe Mason",
+        "Position": "Professor",
+        "Link": "https://geography.wisc.edu/staff/mason-joe/"
+    },
+    {
+        "Name": "Almita A. Miranda",
+        "Position": "Assistant Professor",
+        "Link": "https://geography.wisc.edu/staff/miranda-almita-a/"
+    },
+    {
+        "Name": "Stephen J. Ventura",
+        "Position": "Professor",
+        "Link": "https://geography.wisc.edu/staff/ventura-stephen-j/"
+    }
+]}

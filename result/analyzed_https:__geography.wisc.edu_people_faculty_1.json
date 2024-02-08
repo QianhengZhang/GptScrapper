@@ -1,0 +1,144 @@
+{
+    "Faculty": [
+        {
+            "Name": "Almita A. Miranda",
+            "Position": "Assistant Professor",
+            "Link": "Null"
+        },
+        {
+            "Name": "Sarah A. Moore",
+            "Position": "Associate Professor",
+            "Link": "https://geography.wisc.edu/staff/moore-sarah-a/"
+        },
+        {
+            "Name": "Lisa Naughton",
+            "Position": "Professor",
+            "Link": "https://geography.wisc.edu/staff/naughton-lisa/"
+        },
+        {
+            "Name": "Jonathan Nelson",
+            "Position": "Assistant Professor and Director of GIS Professional Programs",
+            "Link": "https://geography.wisc.edu/staff/nelson-jonathan/"
+        },
+        {
+            "Name": "Kris Olds",
+            "Position": "Professor",
+            "Link": "https://geography.wisc.edu/staff/olds-kris/"
+        },
+        {
+            "Name": "Morgan Robertson",
+            "Position": "Professor",
+            "Link": "https://geography.wisc.edu/staff/robertson-morgan/"
+        },
+        {
+            "Name": "Robert Roth",
+            "Position": "Professor and Director of the UW Cartography Lab",
+            "Link": "https://geography.wisc.edu/staff/roth-robert/"
+        },
+        {
+            "Name": "Matt Turner",
+            "Position": "Professor",
+            "Link": "https://geography.wisc.edu/staff/turner-matt/"
+        },
+        {
+            "Name": "John W. (Jack) Williams",
+            "Position": "Department Chair, Professor",
+            "Link": "https://geography.wisc.edu/staff/williams-john-w-jack/"
+        },
+        {
+            "Name": "Keith Woodward",
+            "Position": "Professor",
+            "Link": "https://geography.wisc.edu/staff/woodward-keith/"
+        },
+        {
+            "Name": "Stephen Young",
+            "Position": "Associate Professor",
+            "Link": "https://geography.wisc.edu/staff/young-stephen/"
+        },
+        {
+            "Name": "A-Xing Zhu",
+            "Position": "Professor",
+            "Link": "https://geography.wisc.edu/staff/zhu-a-xing/"
+        },
+        {
+            "Name": "Justin Cole",
+            "Position": "Faculty Associate, GISPP Instructor",
+            "Link": "https://geography.wisc.edu/staff/cole-justin-2/"
+        },
+        {
+            "Name": "William (Bill) Gartner",
+            "Position": "Academic Staff (Lecturer; PI)",
+            "Link": "https://geography.wisc.edu/staff/gartner-williambill/"
+        },
+        {
+            "Name": "Anwar Sounny-Slitine",
+            "Position": "Faculty Associate, GISPP Instructor",
+            "Link": "https://geography.wisc.edu/staff/sounny-slitine-anwar-2/"
+        },
+        {
+            "Name": "Samer  Alatout",
+            "Position": "Assoc. Professor, Department of Community & Environmental Sociology",
+            "Link": "https://geography.wisc.edu/staff/alatout-samer/"
+        },
+        {
+            "Name": "Anna  Andrzejewski",
+            "Position": "Professor of American Art and Architecture",
+            "Link": "https://geography.wisc.edu/staff/andrzejewski-anna/"
+        },
+        {
+            "Name": "Grace Bulltail",
+            "Position": "Assistant Professor: Nelson Institute",
+            "Link": "https://geography.wisc.edu/staff/bulltail-grace/"
+        },
+        {
+            "Name": "Eric Carson",
+            "Position": "Asst. Prof. of Environmental Science",
+            "Link": "https://geography.wisc.edu/staff/carson-eric/"
+        },
+        {
+            "Name": "Greg Downey",
+            "Position": "Professor, School of Journalism & Mass Communication and School of Library & Information Studies",
+            "Link": "https://geography.wisc.edu/staff/downey-greg/"
+        },
+        {
+            "Name": "Matthew Edney",
+            "Position": "Senior Scientist, College of Letters and Science",
+            "Link": "https://geography.wisc.edu/staff/edney-matthew-2/"
+        },
+        {
+            "Name": "Holly Gibbs",
+            "Position": "Professor of Environmental Studies",
+            "Link": "https://geography.wisc.edu/staff/gibbs-holly-2/"
+        },
+        {
+            "Name": "Elizabeth Hennessy",
+            "Position": "Assistant Professor, Nelson Institute for Environmental Studies",
+            "Link": "https://geography.wisc.edu/staff/hennessy-elizabeth/"
+        },
+        {
+            "Name": "Mutlu Ozdogan",
+            "Position": "Asst. Professor of Forestry and Asst. Professor of Environmental Studies",
+            "Link": "https://geography.wisc.edu/staff/ozdogan-mutlu/"
+        },
+        {
+            "Name": "Volker Radeloff",
+            "Position": "Professor, College of Agriculture and Life Sciences & Forest and Wildlife Ecology",
+            "Link": "https://geography.wisc.edu/staff/radeloff-volker/"
+        },
+        {
+            "Name": "Paul Robbins",
+            "Position": "Professor & Director, Nelson Institute for Environmental Studies",
+            "Link": "https://geography.wisc.edu/staff/robbins-paul/"
+        },
+        {
+            "Name": "Annemarie Schneider",
+            "Position": "Associate Professor of Env. Studies, Center for Sustainability & the Global Environment",
+            "Link": "https://geography.wisc.edu/staff/schneider-annemarie/"
+        },
+        {
+            "Name": "Revel Sims",
+            "Position": "Assistant Professor— Housing and community development",
+            "Link": "https://geography.wisc.edu/staff/sims-revel/"
+        }
+    ]
+}

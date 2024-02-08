@@ -1,0 +1,272 @@
+{"Faculty": [
+    {
+        "Name": "Dr. Jane Southworth",
+        "Position": "Department Chair and Professor",
+        "Link": "https://geog.ufl.edu/faculty/southworth/"
+    },
+    {
+        "Name": "Dr. Joann Mossa",
+        "Position": "Department Associate Chair and Professor",
+        "Link": "https://geog.ufl.edu/faculty/mossa/"
+    },
+    {
+        "Name": "Dr. Kevin Ash",
+        "Position": "Assistant Professor",
+        "Link": "https://geog.ufl.edu/faculty/ash/"
+    },
+    {
+        "Name": "Dr. Jason Blackburn",
+        "Position": "Professor, Graduate Coordinator",
+        "Link": "https://geog.ufl.edu/faculty/blackburn/"
+    },
+    {
+        "Name": "Dr. Brian Child",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/child/"
+    },
+    {
+        "Name": "Dr. Johanna Engström",
+        "Position": "Assistant Professor",
+        "Link": "https://geog.ufl.edu/faculty/engstrom/"
+    },
+    {
+        "Name": "Dr. Timothy Fik",
+        "Position": "Associate Professor",
+        "Link": "https://geog.ufl.edu/faculty/fik/"
+    },
+    {
+        "Name": "Dr. Gabriela Hamerlinck",
+        "Position": "Assistant Instructional Professor",
+        "Link": "https://geog.ufl.edu/faculty/hamerlinck/"
+    },
+    {
+        "Name": "Dr. Yujie Hu",
+        "Position": "Assistant Professor",
+        "Link": "https://geog.ufl.edu/faculty/hu/"
+    },
+    {
+        "Name": "Dr. David Keellings",
+        "Position": "Assistant Professor",
+        "Link": "https://geog.ufl.edu/faculty/keellings/"
+    },
+    {
+        "Name": "Dr. Heidi Lannon",
+        "Position": "Adjunct Professor",
+        "Link": "https://geog.ufl.edu/faculty/lannon/"
+    },
+    {
+        "Name": "Dr. Liang Mao",
+        "Position": "Associate Professor, Undergraduate Coordinator",
+        "Link": "https://geog.ufl.edu/faculty/mao/"
+    },
+    {
+        "Name": "Dr. Corene Matyas",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/matyas/"
+    },
+    {
+        "Name": "Dr. Esther Mullens",
+        "Position": "Assistant Professor",
+        "Link": "https://geog.ufl.edu/faculty/mullens/"
+    },
+    {
+        "Name": "Stephen Mullens",
+        "Position": "Assistant Instructional Professor",
+        "Link": "https://geog.ufl.edu/faculty/smullens/"
+    },
+    {
+        "Name": "Dr. Sadie Ryan",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/ryan/"
+    },
+    {
+        "Name": "Dr. Robert Walker",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/walker/"
+    },
+    {
+        "Name": "Dr. Cynthia Simmons",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/simmons/"
+    },
+    {
+        "Name": "Dr. Peter Waylen",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/waylen/"
+    },
+    {
+        "Name": "Dr. Michael Binford",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/binford/"
+    },
+    {
+        "Name": "Dr. Olivier Walther",
+        "Position": "Associate Professor",
+        "Link": "https://geog.ufl.edu/faculty/walther/"
+    },
+    {
+        "Name": "Dr. Christine Overdevest",
+        "Position": "Associate Professor",
+        "Link": "https://geog.ufl.edu/faculty/overdevest/"
+    },
+    {
+        "Name": "Dr. Peter Adams",
+        "Position": "Associate Professor",
+        "Link": "https://geog.ufl.edu/faculty/adams/"
+    },
+    {
+        "Name": "Dr. Grant Thrall",
+        "Position": "Professor Emeritus",
+        "Link": "https://geog.ufl.edu/faculty/thrall/"
+    },
+    {
+        "Name": "Dr. Abe Goldman",
+        "Position": "Professor Emeritus",
+        "Link": "https://geog.ufl.edu/faculty/goldman/"
+    },
+    {
+        "Name": "Dr. Timothy Murtha",
+        "Position": "Associate Professor",
+        "Link": "https://geog.ufl.edu/faculty/murtha/"
+    },
+    {
+        "Name": "Dr. Youliang Qiu",
+        "Position": "Associate Professor",
+        "Link": "https://geog.ufl.edu/faculty/qiu/"
+    },
+    {
+        "Name": "Dr. Jane Southworth",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/southworth/"
+    },
+    {
+        "Name": "Dr. Joann Mossa",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/mossa/"
+    },
+    {
+        "Name": "Dr. Kevin Ash",
+        "Position": "Assistant Professor",
+        "Link": "https://geog.ufl.edu/faculty/ash/"
+    },
+    {
+        "Name": "Dr. Jason Blackburn",
+        "Position": "Professor, Graduate Coordinator",
+        "Link": "https://geog.ufl.edu/faculty/blackburn/"
+    },
+    {
+        "Name": "Dr. Brian Child",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/child/"
+    },
+    {
+        "Name": "Dr. Johanna Engström",
+        "Position": "Assistant Professor",
+        "Link": "https://geog.ufl.edu/faculty/engstrom/"
+    },
+    {
+        "Name": "Dr. Timothy Fik",
+        "Position": "Associate Professor",
+        "Link": "https://geog.ufl.edu/faculty/fik/"
+    },
+    {
+        "Name": "Dr. Gabriela Hamerlinck",
+        "Position": "Assistant Instructional Professor",
+        "Link": "https://geog.ufl.edu/faculty/hamerlinck/"
+    },
+    {
+        "Name": "Dr. Yujie Hu",
+        "Position": "Assistant Professor",
+        "Link": "https://geog.ufl.edu/faculty/hu/"
+    },
+    {
+        "Name": "Dr. David Keellings",
+        "Position": "Assistant Professor",
+        "Link": "https://geog.ufl.edu/faculty/keellings/"
+    },
+    {
+        "Name": "Dr. Heidi Lannon",
+        "Position": "Adjunct Professor",
+        "Link": "https://geog.ufl.edu/faculty/lannon/"
+    },
+    {
+        "Name": "Dr. Liang Mao",
+        "Position": "Associate Professor, Undergraduate Coordinator",
+        "Link": "https://geog.ufl.edu/faculty/mao/"
+    },
+    {
+        "Name": "Dr. Corene Matyas",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/matyas/"
+    },
+    {
+        "Name": "Dr. Esther Mullens",
+        "Position": "Assistant Professor",
+        "Link": "https://geog.ufl.edu/faculty/mullens/"
+    },
+    {
+        "Name": "Stephen Mullens",
+        "Position": "Assistant Instructional Professor",
+        "Link": "https://geog.ufl.edu/faculty/smullens/"
+    },
+    {
+        "Name": "Dr. Sadie Ryan",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/ryan/"
+    },
+    {
+        "Name": "Dr. Robert Walker",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/walker/"
+    },
+    {
+        "Name": "Dr. Cynthia Simmons",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/simmons/"
+    },
+    {
+        "Name": "Dr. Peter Waylen",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/waylen/"
+    },
+    {
+        "Name": "Dr. Michael Binford",
+        "Position": "Professor",
+        "Link": "https://geog.ufl.edu/faculty/binford/"
+    },
+    {
+        "Name": "Dr. Olivier Walther",
+        "Position": "Associate Professor",
+        "Link": "https://geog.ufl.edu/faculty/walther/"
+    },
+    {
+        "Name": "Dr. Christine Overdevest",
+        "Position": "Associate Professor",
+        "Link": "https://geog.ufl.edu/faculty/overdevest/"
+    },
+    {
+        "Name": "Dr. Peter Adams",
+        "Position": "Associate Professor",
+        "Link": "https://geog.ufl.edu/faculty/adams/"
+    },
+    {
+        "Name": "Dr. Grant Thrall",
+        "Position": "Professor Emeritus",
+        "Link": "https://geog.ufl.edu/faculty/thrall/"
+    },
+    {
+        "Name": "Dr. Abe Goldman",
+        "Position": "Professor Emeritus",
+        "Link": "https://geog.ufl.edu/faculty/goldman/"
+    },
+    {
+        "Name": "Dr. Timothy Murtha",
+        "Position": "Associate Professor",
+        "Link": "https://geog.ufl.edu/faculty/murtha/"
+    },
+    {
+        "Name": "Dr. Youliang Qiu",
+        "Position": "Associate Professor",
+        "Link": "https://geog.ufl.edu/faculty/qiu/"
+    }
+]}

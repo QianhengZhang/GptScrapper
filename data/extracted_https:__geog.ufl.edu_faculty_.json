@@ -1,0 +1,1311 @@
+{
+    "header": [
+        {
+            "a": [
+                {
+                    "text": "Skip to main content"
+                }
+            ]
+        },
+        {
+            "div": [
+                {
+                    "text": "UF Logo"
+                },
+                {
+                    "text": "University of Florida Homepage",
+                    "url": "https://ufl.edu"
+                },
+                {
+                    "text": "University of Florida Homepage"
+                }
+            ]
+        },
+        {
+            "div": [
+                {
+                    "text": "College of Liberal Arts logo"
+                },
+                {
+                    "text": "College of Liberal Arts and SciencesLiberal ArtsandSciencesLiberal ArtsandSciences",
+                    "url": "https://clas.ufl.edu"
+                },
+                {
+                    "text": "College of Liberal Arts and Sciences"
+                },
+                {
+                    "text": "Liberal Arts"
+                },
+                {
+                    "text": "and"
+                },
+                {
+                    "text": "Sciences"
+                },
+                {
+                    "text": "Liberal Arts"
+                },
+                {
+                    "text": "and"
+                },
+                {
+                    "text": "Sciences"
+                }
+            ]
+        },
+        {
+            "div": [
+                {
+                    "text": "Website title"
+                },
+                {
+                    "text": "Geography",
+                    "url": "https://geog.ufl.edu"
+                },
+                {
+                    "text": "Geography"
+                },
+                {
+                    "text": "Main Navigation"
+                },
+                {
+                    "text": "Search for:"
+                },
+                {
+                    "text": "Search"
+                },
+                {
+                    "text": "Menu"
+                },
+                {
+                    "text": "GEO:AI",
+                    "url": "https://geog.ufl.edu/geoai/"
+                },
+                {
+                    "text": "GEO:AI"
+                },
+                {
+                    "text": "About Us",
+                    "url": "#"
+                },
+                {
+                    "text": "About Us"
+                },
+                {
+                    "text": "Focus Areas",
+                    "url": "https://geog.ufl.edu/focus-areas/"
+                },
+                {
+                    "text": "Focus Areas"
+                },
+                {
+                    "text": "Geography Labs",
+                    "url": "https://geog.ufl.edu/geography-labs/"
+                },
+                {
+                    "text": "Geography Labs"
+                },
+                {
+                    "text": "Department Information",
+                    "url": "https://geog.ufl.edu/department/"
+                },
+                {
+                    "text": "Department Information"
+                },
+                {
+                    "text": "Careers in Geography",
+                    "url": "https://geog.ufl.edu/programs/degrees-and-careers-in-geography/"
+                },
+                {
+                    "text": "Careers in Geography"
+                },
+                {
+                    "text": "Geography Club",
+                    "url": "https://geog.ufl.edu/department/geography-club/"
+                },
+                {
+                    "text": "Geography Club"
+                },
+                {
+                    "text": "Gamma Theta Upsilon",
+                    "url": "https://geog.ufl.edu/department/gamma-theta-upsilon/"
+                },
+                {
+                    "text": "Gamma Theta Upsilon"
+                },
+                {
+                    "text": "Contact",
+                    "url": "https://geog.ufl.edu/department/contact/"
+                },
+                {
+                    "text": "Contact"
+                },
+                {
+                    "text": "Advisory Board",
+                    "url": "https://geog.ufl.edu/view/department-of-geography-advisory-board/"
+                },
+                {
+                    "text": "Advisory Board"
+                },
+                {
+                    "text": "Donate",
+                    "url": "https://www.uff.ufl.edu/giving-opportunities/000943-geography-general-fund/"
+                },
+                {
+                    "text": "Donate"
+                },
+                {
+                    "text": "People",
+                    "url": "https://geog.ufl.edu/people/"
+                },
+                {
+                    "text": "People"
+                },
+                {
+                    "text": "Diversity, Equity, and Inclusion",
+                    "url": "https://geog.ufl.edu/department/diversity-equity-and-inclusion/"
+                },
+                {
+                    "text": "Diversity, Equity, and Inclusion"
+                },
+                {
+                    "text": "Faculty",
+                    "url": "https://geog.ufl.edu/faculty/"
+                },
+                {
+                    "text": "Faculty"
+                },
+                {
+                    "text": "Academic Coordinators",
+                    "url": "https://geog.ufl.edu/people/academic-coordinators/"
+                },
+                {
+                    "text": "Academic Coordinators"
+                },
+                {
+                    "text": "Postdoctoral Researchers",
+                    "url": "https://geog.ufl.edu/postdocs/"
+                },
+                {
+                    "text": "Postdoctoral Researchers"
+                },
+                {
+                    "text": "Graduate Students",
+                    "url": "https://geog.ufl.edu/grad-students/"
+                },
+                {
+                    "text": "Graduate Students"
+                },
+                {
+                    "text": "Graduate Representatives",
+                    "url": "https://geog.ufl.edu/grad-students/grad-representatives/"
+                },
+                {
+                    "text": "Graduate Representatives"
+                },
+                {
+                    "text": "Administration",
+                    "url": "https://geog.ufl.edu/people/staff/"
+                },
+                {
+                    "text": "Administration"
+                },
+                {
+                    "text": "Chair’s Corner",
+                    "url": "https://geog.ufl.edu/people/chairs-corner/"
+                },
+                {
+                    "text": "Chair’s Corner"
+                },
+                {
+                    "text": "News & Events",
+                    "url": "#"
+                },
+                {
+                    "text": "News & Events"
+                },
+                {
+                    "text": "GeoGator Newsletter",
+                    "url": "https://geog.ufl.edu/category/geogator-newsletter/"
+                },
+                {
+                    "text": "GeoGator Newsletter"
+                },
+                {
+                    "text": "Academic Updates and Research",
+                    "url": "https://geog.ufl.edu/news-and-research/"
+                },
+                {
+                    "text": "Academic Updates and Research"
+                },
+                {
+                    "text": "Internal Awards",
+                    "url": "https://geog.ufl.edu/department/internal-awards/"
+                },
+                {
+                    "text": "Internal Awards"
+                },
+                {
+                    "text": "Our Publications",
+                    "url": "https://geog.ufl.edu/our-publications/"
+                },
+                {
+                    "text": "Our Publications"
+                },
+                {
+                    "text": "Submit your story",
+                    "url": "https://geog.ufl.edu/submit-your-story/"
+                },
+                {
+                    "text": "Submit your story"
+                },
+                {
+                    "text": "Colloquium",
+                    "url": "https://geog.ufl.edu/department/colloquium-schedule/"
+                },
+                {
+                    "text": "Colloquium"
+                },
+                {
+                    "text": "Social Media",
+                    "url": "https://geog.ufl.edu/department/contact/social-media/"
+                },
+                {
+                    "text": "Social Media"
+                },
+                {
+                    "text": "Undergraduate",
+                    "url": "https://geog.ufl.edu/programs/undergrad/"
+                },
+                {
+                    "text": "Undergraduate"
+                },
+                {
+                    "text": "Geography Majors",
+                    "url": "https://geog.ufl.edu/programs/undergraduate-program-2/geography-majors/"
+                },
+                {
+                    "text": "Geography Majors"
+                },
+                {
+                    "text": "Meteorology Majors",
+                    "url": "https://geog.ufl.edu/programs/undergrad/meteorology/"
+                },
+                {
+                    "text": "Meteorology Majors"
+                },
+                {
+                    "text": "Minors",
+                    "url": "https://geog.ufl.edu/programs/undergrad/minor_requirements/"
+                },
+                {
+                    "text": "Minors"
+                },
+                {
+                    "text": "Certificates",
+                    "url": "https://geog.ufl.edu/programs/certificates/undergrad-cert/"
+                },
+                {
+                    "text": "Certificates"
+                },
+                {
+                    "text": "Transfer Students",
+                    "url": "https://geog.ufl.edu/information-for-transfer-students/"
+                },
+                {
+                    "text": "Transfer Students"
+                },
+                {
+                    "text": "UF Online Programs",
+                    "url": "http://ufonline.ufl.edu/degrees/undergraduate/geography/"
+                },
+                {
+                    "text": "UF Online Programs"
+                },
+                {
+                    "text": "Geography",
+                    "url": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/GPY_UFO/GPY_BA_UFO/"
+                },
+                {
+                    "text": "Geography"
+                },
+                {
+                    "text": "Environmental Geosciences",
+                    "url": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/GPY_UFO/GPY_BA01_UFO/"
+                },
+                {
+                    "text": "Environmental Geosciences"
+                },
+                {
+                    "text": "PaCE in Geography",
+                    "url": "https://www.advising.ufl.edu/pace-pathways-to-campus-enrollment/majors/?major=GPY_BA"
+                },
+                {
+                    "text": "PaCE in Geography"
+                },
+                {
+                    "text": "Undergraduate Courses",
+                    "url": "https://geog.ufl.edu/courses/"
+                },
+                {
+                    "text": "Undergraduate Courses"
+                },
+                {
+                    "text": "Course Registration",
+                    "url": "https://geog.ufl.edu/forms/registration/"
+                },
+                {
+                    "text": "Course Registration"
+                },
+                {
+                    "text": "Graduate",
+                    "url": "https://geog.ufl.edu/programs/grad/"
+                },
+                {
+                    "text": "Graduate"
+                },
+                {
+                    "text": "Graduate Program",
+                    "url": "https://geog.ufl.edu/programs/grad/"
+                },
+                {
+                    "text": "Graduate Program"
+                },
+                {
+                    "text": "Graduate Admissions",
+                    "url": "https://geog.ufl.edu/programs/grad/admissions/"
+                },
+                {
+                    "text": "Graduate Admissions"
+                },
+                {
+                    "text": "Graduate Funding",
+                    "url": "https://geog.ufl.edu/programs/grad/admissions/funding/"
+                },
+                {
+                    "text": "Graduate Funding"
+                },
+                {
+                    "text": "Information for Current Graduate Students",
+                    "url": "https://geog.ufl.edu/programs/grad/information-current-grad-students/"
+                },
+                {
+                    "text": "Information for Current Graduate Students"
+                },
+                {
+                    "text": "Graduate Certificates",
+                    "url": "https://geog.ufl.edu/programs/certificates/grad-cert/"
+                },
+                {
+                    "text": "Graduate Certificates"
+                },
+                {
+                    "text": "Graduate Courses",
+                    "url": "https://geog.ufl.edu/courses/"
+                },
+                {
+                    "text": "Graduate Courses"
+                },
+                {
+                    "text": "Online Graduate Applications and Forms",
+                    "url": "https://geog.ufl.edu/forms/graduate-applications-forms/"
+                },
+                {
+                    "text": "Online Graduate Applications and Forms"
+                },
+                {
+                    "text": "Graduate Student Annual Reporting",
+                    "url": "https://geog.ufl.edu/programs/grad/graduate-student-annual-reporting/"
+                },
+                {
+                    "text": "Graduate Student Annual Reporting"
+                },
+                {
+                    "text": "GeoGator Summer Research Program",
+                    "url": "https://geog.ufl.edu/geogator-summer-research-program/"
+                },
+                {
+                    "text": "GeoGator Summer Research Program"
+                },
+                {
+                    "text": "#site-navigation"
+                },
+                {
+                    "text": "Make a Gift",
+                    "url": "https://geog.ufl.edu/donate/"
+                },
+                {
+                    "text": "Make a Gift"
+                },
+                {
+                    "text": "Make a Gift",
+                    "url": "https://geog.ufl.edu/donate/"
+                },
+                {
+                    "text": "Make a Gift"
+                },
+                {
+                    "text": "Quicklinks menu"
+                },
+                {
+                    "text": "Resources",
+                    "url": "#"
+                },
+                {
+                    "text": "Resources"
+                },
+                {
+                    "text": "Faculty & Staff",
+                    "url": "https://clas.ufl.edu/clas-connected/faculty-staff-resources/"
+                },
+                {
+                    "text": "Faculty & Staff"
+                },
+                {
+                    "text": "Current & Prospective Students",
+                    "url": "https://clas.ufl.edu/clas-connected/student-resources/"
+                },
+                {
+                    "text": "Current & Prospective Students"
+                },
+                {
+                    "text": "Alumni",
+                    "url": "https://advancement.clas.ufl.edu/alumni/stay-connected/"
+                },
+                {
+                    "text": "Alumni"
+                },
+                {
+                    "text": "Search section"
+                },
+                {
+                    "text": "Open/Close Search"
+                },
+                {
+                    "text": "Search for:"
+                },
+                {
+                    "text": "Search"
+                }
+            ]
+        }
+    ],
+    "div": [
+        {
+            "div": [
+                {
+                    "text": ".single-featured-image-header"
+                },
+                {
+                    "text": "Faculty"
+                },
+                {
+                    "text": ".wrap"
+                },
+                {
+                    "text": ".entry-header"
+                },
+                {
+                    "text": "Dr. Jane Southworth",
+                    "url": "https://geog.ufl.edu/faculty/southworth/"
+                },
+                {
+                    "text": "Dr. Jane Southworth"
+                },
+                {
+                    "text": "Department Chair and Professor"
+                },
+                {
+                    "text": "Dr. Joann Mossa",
+                    "url": "https://geog.ufl.edu/faculty/mossa/"
+                },
+                {
+                    "text": "Dr. Joann Mossa"
+                },
+                {
+                    "text": "Department Associate Chair and Professor"
+                },
+                {
+                    "text": "she/her/hers"
+                },
+                {
+                    "text": "Dr. Kevin Ash",
+                    "url": "https://geog.ufl.edu/faculty/ash/"
+                },
+                {
+                    "text": "Dr. Kevin Ash"
+                },
+                {
+                    "text": "Assistant Professor"
+                },
+                {
+                    "text": "Dr. Jason Blackburn",
+                    "url": "https://geog.ufl.edu/faculty/blackburn/"
+                },
+                {
+                    "text": "Dr. Jason Blackburn"
+                },
+                {
+                    "text": "Professor,"
+                },
+                {
+                    "text": "Graduate Coordinator",
+                    "url": "https://geog.ufl.edu/programs/grad/"
+                },
+                {
+                    "text": "Graduate Coordinator"
+                },
+                {
+                    "text": "he/him/his"
+                },
+                {
+                    "text": "Dr. Brian Child",
+                    "url": "https://geog.ufl.edu/faculty/child/"
+                },
+                {
+                    "text": "Dr. Brian Child"
+                },
+                {
+                    "text": "Professor"
+                },
+                {
+                    "text": "Dr. Johanna Engström",
+                    "url": "https://geog.ufl.edu/faculty/engstrom/"
+                },
+                {
+                    "text": "Dr. Johanna Engström"
+                },
+                {
+                    "text": "Assistant Professor"
+                },
+                {
+                    "text": "she/her/hers"
+                },
+                {
+                    "text": "Dr. Timothy Fik",
+                    "url": "https://geog.ufl.edu/faculty/fik/"
+                },
+                {
+                    "text": "Dr. Timothy Fik"
+                },
+                {
+                    "text": "Associate Professor"
+                },
+                {
+                    "text": "Dr. Gabriela Hamerlinck",
+                    "url": "https://geog.ufl.edu/faculty/hamerlinck/"
+                },
+                {
+                    "text": "Dr. Gabriela Hamerlinck"
+                },
+                {
+                    "text": "Assistant Instructional Professor"
+                },
+                {
+                    "text": "she/her/hers"
+                },
+                {
+                    "text": "Dr. Yujie Hu",
+                    "url": "https://geog.ufl.edu/faculty/hu/"
+                },
+                {
+                    "text": "Dr. Yujie Hu"
+                },
+                {
+                    "text": "Assistant Professor"
+                },
+                {
+                    "text": "Dr. David Keellings",
+                    "url": "https://geog.ufl.edu/faculty/keellings/"
+                },
+                {
+                    "text": "Dr. David Keellings"
+                },
+                {
+                    "text": "Assistant Professor"
+                },
+                {
+                    "text": "he/him/his"
+                },
+                {
+                    "text": "Dr. Heidi Lannon",
+                    "url": "https://geog.ufl.edu/faculty/lannon/"
+                },
+                {
+                    "text": "Dr. Heidi Lannon"
+                },
+                {
+                    "text": "Adjunct Professor"
+                },
+                {
+                    "text": "Dr. Liang Mao",
+                    "url": "https://geog.ufl.edu/faculty/mao/"
+                },
+                {
+                    "text": "Dr. Liang Mao"
+                },
+                {
+                    "text": "Associate Professor,"
+                },
+                {
+                    "text": "UndergraduateCoordinator",
+                    "url": "https://geog.ufl.edu/programs/undergrad/"
+                },
+                {
+                    "text": "Undergraduate"
+                },
+                {
+                    "text": "Coordinator"
+                },
+                {
+                    "text": "Dr. Corene Matyas",
+                    "url": "https://geog.ufl.edu/faculty/matyas/"
+                },
+                {
+                    "text": "Dr. Corene Matyas"
+                },
+                {
+                    "text": "Professor"
+                },
+                {
+                    "text": "they/them"
+                },
+                {
+                    "text": "Dr. Esther Mullens",
+                    "url": "https://geog.ufl.edu/faculty/mullens/"
+                },
+                {
+                    "text": "Dr. Esther Mullens"
+                },
+                {
+                    "text": "Assistant Professor"
+                },
+                {
+                    "text": "she/her/hers"
+                },
+                {
+                    "text": "Stephen Mullens",
+                    "url": "https://geog.ufl.edu/faculty/smullens/"
+                },
+                {
+                    "text": "Stephen Mullens"
+                },
+                {
+                    "text": "Assistant Instructional Professor"
+                },
+                {
+                    "text": "Dr. Sadie J. Ryan",
+                    "url": "https://geog.ufl.edu/faculty/ryan/"
+                },
+                {
+                    "text": "Dr. Sadie J. Ryan"
+                },
+                {
+                    "text": "Associate Professor"
+                },
+                {
+                    "text": "she/her/hers"
+                },
+                {
+                    "text": "Dr. Katy Serafin",
+                    "url": "https://geog.ufl.edu/faculty/serafin/"
+                },
+                {
+                    "text": "Dr. Katy Serafin"
+                },
+                {
+                    "text": "Assistant Professor"
+                },
+                {
+                    "text": "Dr. Cynthia S. Simmons",
+                    "url": "https://geog.ufl.edu/faculty/simmons/"
+                },
+                {
+                    "text": "Dr. Cynthia S. Simmons"
+                },
+                {
+                    "text": "Professor"
+                },
+                {
+                    "text": "she/her/hers"
+                },
+                {
+                    "text": "Dr. M. Anwar Sounny-Slitine",
+                    "url": "https://geog.ufl.edu/faculty/sounny/"
+                },
+                {
+                    "text": "Dr. M. Anwar Sounny-Slitine"
+                },
+                {
+                    "text": "Assistant Instructional Professor"
+                },
+                {
+                    "text": "Dr. Robert Walker",
+                    "url": "https://geog.ufl.edu/faculty/walker/"
+                },
+                {
+                    "text": "Dr. Robert Walker"
+                },
+                {
+                    "text": "Professor"
+                },
+                {
+                    "text": "Dr. Olivier Walther",
+                    "url": "https://geog.ufl.edu/faculty/walther/"
+                },
+                {
+                    "text": "Dr. Olivier Walther"
+                },
+                {
+                    "text": "Associate Professor"
+                },
+                {
+                    "text": "Dr. Berry Wen",
+                    "url": "https://geog.ufl.edu/faculty/wen/"
+                },
+                {
+                    "text": "Dr. Berry Wen"
+                },
+                {
+                    "text": "Assistant Professor"
+                },
+                {
+                    "text": "Dr. Alan Wiig",
+                    "url": "https://geog.ufl.edu/faculty-wiig/"
+                },
+                {
+                    "text": "Dr. Alan Wiig"
+                },
+                {
+                    "text": "Associate Professor"
+                },
+                {
+                    "text": "Dr. Jamaal Wright",
+                    "url": "https://geog.ufl.edu/faculty/wright/"
+                },
+                {
+                    "text": "Dr. Jamaal Wright"
+                },
+                {
+                    "text": "Assistant Professor"
+                },
+                {
+                    "text": "he/him/his"
+                },
+                {
+                    "text": "#tablepress-21 from cache"
+                },
+                {
+                    "text": "Affiliate and Courtesy Faculty"
+                },
+                {
+                    "text": "Dr. Joel Correia",
+                    "url": "http://www.latam.ufl.edu/people/center-based-faculty/joel-correia/"
+                },
+                {
+                    "text": "Dr. Joel Correia"
+                },
+                {
+                    "text": "Dr. Jason Farlow"
+                },
+                {
+                    "text": "Dr. Nicolas Gauthier"
+                },
+                {
+                    "text": "Dr. Ryan Good",
+                    "url": "https://snre.ifas.ufl.edu/people/faculty-staff-and-administration/good/"
+                },
+                {
+                    "text": "Dr. Ryan Good"
+                },
+                {
+                    "text": "Dr. Jacquelyn Micieli-Voutsinas"
+                },
+                {
+                    "text": "Dr. Andy Noss"
+                },
+                {
+                    "text": "Dr. Nirav Patel"
+                },
+                {
+                    "text": "Dr. Marilyn (Mickie) Swisher",
+                    "url": "https://fycs.ifas.ufl.edu/fycs-directory/mickie-swisher/"
+                },
+                {
+                    "text": "Dr. Marilyn (Mickie) Swisher"
+                },
+                {
+                    "text": "Dr. Chang Zhao"
+                },
+                {
+                    "text": "#tablepress-5 from cache"
+                },
+                {
+                    "text": "Emeritus Faculty"
+                },
+                {
+                    "text": "Dr. Michael Binford",
+                    "url": "https://geog.ufl.edu/faculty/binford/"
+                },
+                {
+                    "text": "Dr. Michael Binford"
+                },
+                {
+                    "text": "Dr. Cesar Caviedes",
+                    "url": "https://geog.ufl.edu/faculty/emeritus/caviedes/"
+                },
+                {
+                    "text": "Dr. Cesar Caviedes"
+                },
+                {
+                    "text": "Dr. Greg Glass",
+                    "url": "https://geog.ufl.edu/faculty/emeritus/glass/"
+                },
+                {
+                    "text": "Dr. Greg Glass"
+                },
+                {
+                    "text": "Dr. Stephen Golant",
+                    "url": "https://geog.ufl.edu/faculty/emeritus/golant/"
+                },
+                {
+                    "text": "Dr. Stephen Golant"
+                },
+                {
+                    "text": "Dr. Abraham Goldman",
+                    "url": "https://geog.ufl.edu/faculty/emeritus/goldman-2/"
+                },
+                {
+                    "text": "Dr. Abraham Goldman"
+                },
+                {
+                    "text": "Dr. Barbara McDade-Gordon",
+                    "url": "https://geog.ufl.edu/faculty/emeritus/mcdade-gordon/"
+                },
+                {
+                    "text": "Dr. Barbara McDade-Gordon"
+                },
+                {
+                    "text": "Dr. Nigel Smith",
+                    "url": "https://geog.ufl.edu/faculty/emeritus/smith-3/"
+                },
+                {
+                    "text": "Dr. Nigel Smith"
+                },
+                {
+                    "text": "Dr. Peter Waylen",
+                    "url": "https://geog.ufl.edu/faculty/emeritus/waylen/"
+                },
+                {
+                    "text": "Dr. Peter Waylen"
+                },
+                {
+                    "text": "#tablepress-6 from cache"
+                },
+                {
+                    "text": "Faculty Focus Areas",
+                    "url": "https://geog.ufl.edu/focus-areas/"
+                },
+                {
+                    "text": "Faculty Focus Areas"
+                },
+                {
+                    "text": "Focus Area 1: Earth System Science",
+                    "url": "https://geog.ufl.edu/focus-areas/focus-area-1-earth-system-science/"
+                },
+                {
+                    "text": "Focus Area 1: Earth System Science"
+                },
+                {
+                    "text": "Focus Area 2: Medical Geography in Global Health (MGGH)",
+                    "url": "https://geog.ufl.edu/focus-areas/focus-area-2-medical-geography-in-global-health-mggh/"
+                },
+                {
+                    "text": "Focus Area 2: Medical Geography in Global Health (MGGH)"
+                },
+                {
+                    "text": "Focus Area 3: Places, Networks, & Flows",
+                    "url": "https://geog.ufl.edu/focus-areas/focus-3-places-networks-flows/"
+                },
+                {
+                    "text": "Focus Area 3: Places, Networks, & Flows"
+                },
+                {
+                    "text": "Focus Area 4: Geopolitics & The Global Economy",
+                    "url": "https://geog.ufl.edu/focus-areas/focus-4-geopolitics-the-global-economy/"
+                },
+                {
+                    "text": "Focus Area 4: Geopolitics & The Global Economy"
+                },
+                {
+                    "text": "Focus Area 5: Catastrophes, Conservation, and Conflict",
+                    "url": "https://geog.ufl.edu/focus-areas/focus-area-5-catastrophes-conservation-and-conflict/"
+                },
+                {
+                    "text": "Focus Area 5: Catastrophes, Conservation, and Conflict"
+                },
+                {
+                    "text": "Focus Area 6: Sustainability & Global Environmental Change",
+                    "url": "https://geog.ufl.edu/focus-areas/focus-area-6-sustainability-global-environmental-change/"
+                },
+                {
+                    "text": "Focus Area 6: Sustainability & Global Environmental Change"
+                },
+                {
+                    "text": "Focus Area 7: Geospatial Analysis & Techniques",
+                    "url": "https://geog.ufl.edu/focus-areas/focus-area-7-geospatial-analysis-techniques/"
+                },
+                {
+                    "text": "Focus Area 7: Geospatial Analysis & Techniques"
+                },
+                {
+                    "text": ".wrap"
+                },
+                {
+                    "text": ".entry-content"
+                },
+                {
+                    "text": "#post-##"
+                },
+                {
+                    "text": "#main"
+                },
+                {
+                    "text": "#primary"
+                },
+                {
+                    "text": "#content"
+                }
+            ]
+        }
+    ],
+    "footer": [
+        {
+            "div": [
+                {
+                    "text": "<span class=\"SVGaltText\">College of Liberal Arts and Sciences Homepage</span>"
+                },
+                {
+                    "text": "3141 Turlington Hall"
+                },
+                {
+                    "text": "330 Newell Dr."
+                },
+                {
+                    "text": "Gainesville, FL 32611-7315"
+                },
+                {
+                    "text": ".footer-main-col-1"
+                },
+                {
+                    "text": "Navigate CLAS Footer Menu\r\n\t<div class=\"footer-main-nav\">\r\n\t\t\t<div class=\"footer-main-FooterMainNav footer-menu\">\r\n\t\t\t\t\t\t<h2>Navigate Liberal Arts &amp; Sciences</h2>\r\n\t\t\t\t\t\t<div class=\"menu-navigate-liberal-arts-sciences-container\">\r\n\t\t\t\t\t\t\t<ul id=\"FooterMainNav\" class=\"list-unstyled footer-list>\"><li id=\"menu-item-8769\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-8769\"><a href=\"#\" title=\"Academics\" target=\"\"> <span>Academics</span></a></li>\r\n\t\t\t\t\t\t\t\t<li id=\"menu-item-8770\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-8770\"><a href=\"#\" title=\"People\" target=\"\"> <span>People</span></a></li>\r\n\t\t\t\t\t\t\t\t<li id=\"menu-item-8771\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-8771\"><a href=\"#\" title=\"Resources\" target=\"\"> <span>Resources</span></a></li>\r\n\t\t\t\t\t\t\t\t<li id=\"menu-item-11902\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-11902\"><a href=\"#\" title=\"About\" target=\"\"> <span>About</span></a></li>\r\n\t\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t</div>"
+                },
+                {
+                    "text": "End Navigate CLAS Footer Menu"
+                },
+                {
+                    "text": "Links"
+                },
+                {
+                    "text": "Donate",
+                    "url": "https://geog.ufl.edu/donate/"
+                },
+                {
+                    "text": "Donate"
+                },
+                {
+                    "text": "COVID-19 Resources",
+                    "url": "https://geog.ufl.edu/covid-19-resources/"
+                },
+                {
+                    "text": "COVID-19 Resources"
+                },
+                {
+                    "text": "GeoGator Swag!",
+                    "url": "https://geog.ufl.edu/geogator-swag/"
+                },
+                {
+                    "text": "GeoGator Swag!"
+                },
+                {
+                    "text": "Bylaws",
+                    "url": "https://geog.ufl.edu/department/bylaws/"
+                },
+                {
+                    "text": "Bylaws"
+                },
+                {
+                    "text": "Forms",
+                    "url": "https://geog.ufl.edu/forms-2/"
+                },
+                {
+                    "text": "Forms"
+                },
+                {
+                    "text": "People"
+                },
+                {
+                    "text": "Chair’s Corner",
+                    "url": "https://geog.ufl.edu/people/chairs-corner/"
+                },
+                {
+                    "text": "Chair’s Corner"
+                },
+                {
+                    "text": "Faculty",
+                    "url": "https://geog.ufl.edu/faculty/"
+                },
+                {
+                    "text": "Faculty"
+                },
+                {
+                    "text": "Graduate Students",
+                    "url": "https://geog.ufl.edu/grad-students/"
+                },
+                {
+                    "text": "Graduate Students"
+                },
+                {
+                    "text": "Postdoctoral Researchers",
+                    "url": "https://geog.ufl.edu/postdocs/"
+                },
+                {
+                    "text": "Postdoctoral Researchers"
+                },
+                {
+                    "text": "Administration",
+                    "url": "https://geog.ufl.edu/people/staff/"
+                },
+                {
+                    "text": "Administration"
+                },
+                {
+                    "text": "Contact",
+                    "url": "https://geog.ufl.edu/department/contact/"
+                },
+                {
+                    "text": "Contact"
+                },
+                {
+                    "text": "Focus Areas"
+                },
+                {
+                    "text": "Earth System Science",
+                    "url": "https://geog.ufl.edu/focus-areas/focus-area-1-earth-system-science/"
+                },
+                {
+                    "text": "Earth System Science"
+                },
+                {
+                    "text": "Medical Geography in Global Health (MGGH)",
+                    "url": "http://geog.ufl.edu/focus-areas/focus-area-2-medical-geography-in-global-health-mggh/"
+                },
+                {
+                    "text": "Medical Geography in Global Health (MGGH)"
+                },
+                {
+                    "text": "Places, Networks, & Flows",
+                    "url": "http://geog.ufl.edu/focus-areas/focus-3-places-networks-flows/"
+                },
+                {
+                    "text": "Places, Networks, & Flows"
+                },
+                {
+                    "text": "Geopolitics & the Global Economy",
+                    "url": "http://geog.ufl.edu/focus-areas/focus-4-geopolitics-the-global-economy/"
+                },
+                {
+                    "text": "Geopolitics & the Global Economy"
+                },
+                {
+                    "text": "Catastrophes, Conservation, & Conflict",
+                    "url": "http://geog.ufl.edu/focus-areas/focus-area-5-catastrophes-conservation-and-conflict/"
+                },
+                {
+                    "text": "Catastrophes, Conservation, & Conflict"
+                },
+                {
+                    "text": "Sustainability & Global Environmental Change",
+                    "url": "http://geog.ufl.edu/focus-areas/focus-area-6-sustainability-global-environmental-change/"
+                },
+                {
+                    "text": "Sustainability & Global Environmental Change"
+                },
+                {
+                    "text": "GeoSpatial Analysis & Techniques",
+                    "url": "http://geog.ufl.edu/focus-areas/focus-area-7-geospatial-analysis-techniques/"
+                },
+                {
+                    "text": "GeoSpatial Analysis & Techniques"
+                },
+                {
+                    "text": "Stay Connected"
+                },
+                {
+                    "text": "Connect with 125,000+ Liberal Arts and Sciences Alumni!",
+                    "url": "https://advancement.clas.ufl.edu/alumni/stay-connected"
+                },
+                {
+                    "text": "Connect with 125,000+ Liberal Arts and Sciences Alumni!"
+                },
+                {
+                    "text": ".footer-main-col-2"
+                },
+                {
+                    "text": "University of Florida Homepage",
+                    "url": "http://www.ufl.edu"
+                },
+                {
+                    "text": "University of Florida Homepage"
+                },
+                {
+                    "text": "#LASGATORS"
+                },
+                {
+                    "text": "Share this page on Facebook",
+                    "url": "https://www.facebook.com/UFGeog/"
+                },
+                {
+                    "text": "Share this page on Facebook"
+                },
+                {
+                    "text": "Share this page on Twitter",
+                    "url": "https://twitter.com/UFGeog"
+                },
+                {
+                    "text": "Share this page on Twitter"
+                },
+                {
+                    "text": "Share this page on Instagram",
+                    "url": "https://www.instagram.com/ufgeog/"
+                },
+                {
+                    "text": "Share this page on Instagram"
+                },
+                {
+                    "text": "Share this page on YouTube",
+                    "url": "https://YouTube.com/UFGeog"
+                },
+                {
+                    "text": "Share this page on YouTube"
+                },
+                {
+                    "text": "If you have any website questions please contact"
+                },
+                {
+                    "text": "CLAS Communications Support",
+                    "url": "https://commsupport.clas.ufl.edu/submit-ticket/"
+                },
+                {
+                    "text": "CLAS Communications Support"
+                },
+                {
+                    "text": ".footer-main-col-3"
+                }
+            ]
+        },
+        {
+            "div": [
+                {
+                    "text": "© 2024 University of Florida  |"
+                },
+                {
+                    "text": "Text-only",
+                    "url": "//assistive.usablenet.com/tt/referrer"
+                },
+                {
+                    "text": "Text-only"
+                },
+                {
+                    "text": "|"
+                },
+                {
+                    "text": "Website Feedback",
+                    "url": "https://mediaservices.clas.ufl.edu/"
+                },
+                {
+                    "text": "Website Feedback"
+                },
+                {
+                    "text": "|"
+                },
+                {
+                    "text": "UF Privacy Policy",
+                    "url": "http://privacy.ufl.edu/privacy-policies-and-procedures/onlineinternet-privacy-statement"
+                },
+                {
+                    "text": "UF Privacy Policy"
+                },
+                {
+                    "text": "University of Florida Homepage",
+                    "url": "http://www.ufl.edu"
+                },
+                {
+                    "text": "University of Florida Homepage"
+                }
+            ]
+        },
+        {
+            "svg": [
+                {
+                    "text": "Inline SVG with <image> fallback for older browsers"
+                },
+                {
+                    "text": "University of Florida Logo"
+                },
+                {
+                    "text": "University of Florida Go Greater Logo"
+                },
+                {
+                    "text": ".st0{fill:#FFFFFF;}\n\t\t.st1{fill:none;}\n\t\t.st2{clip-path:url(#SVGID_00000114779791803285585310000012361039592713231760_);}\n\t\t.st3{fill:#F45A1D;}\n\t\t.st4{clip-path:url(#SVGID_00000178192804424189284580000011658209062408032128_);}\n\t\t.st5{clip-path:url(#SVGID_00000099647995405236207790000013275629460725296521_);}\n\t\t.st6{clip-path:url(#SVGID_00000061429236355873273690000003319829763426916760_);}"
+                },
+                {
+                    "text": "College of Liberal Arts and Sciences Logo"
+                },
+                {
+                    "text": "UF Liberal Arts and Sciences Logo"
+                },
+                {
+                    "text": "CLAS Logo Mobile Version"
+                },
+                {
+                    "text": ".footer-icon-color{fill:#9ad2e1;}.cls-2{fill:#00285e;}"
+                },
+                {
+                    "text": ".footer-icon-color{fill:#9ad2e1;}.cls-2{fill:#00285e;}"
+                },
+                {
+                    "text": ".footer-icon-color{fill:#9ad2e1;}.cls-2{fill:#00285e;}"
+                },
+                {
+                    "text": ".footer-icon-color{fill:#9ad2e1;}.cls-2{fill:#00285e;}"
+                },
+                {
+                    "text": ".footer-icon-color{fill:#9ad2e1;}.cls-2{fill:#00285e;}"
+                },
+                {
+                    "text": ".footer-icon-color{fill:#9ad2e1;}.cls-2{fill:#00285e;}"
+                },
+                {
+                    "text": ".footer-icon-color{fill:#9ad2e1;}.cls-2{fill:#00285e;}"
+                },
+                {
+                    "text": "UF Watermark Logo"
+                },
+                {
+                    "text": ".cls-1{fill:#bc581a;}"
+                },
+                {
+                    "text": ".cls-1{fill:#f45a1d;}"
+                },
+                {
+                    "text": "Journeys Begin Here"
+                },
+                {
+                    "text": "Gator Good"
+                }
+            ]
+        }
+    ],
+    "script": []
+}
