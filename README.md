@@ -1,0 +1,2 @@
+# GptScrapper
+Chatgpt based webscrapping
